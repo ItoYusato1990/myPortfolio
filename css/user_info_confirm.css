@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 700px;
+  height: 420px;
+}
+
+span {
+  height: 100px;
+}
+
+#name {
+  margin-top: 15px;
+}
+
+#email {
+  margin-top: 15px
+}
+
+#pass {
+  margin-top: 15px;
+}
