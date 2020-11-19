@@ -1,0 +1,13 @@
+.btn-primary {
+  position: fixed;
+  display: inline-block;
+  text-align: center;
+  text-align: left;
+  bottom: 50px;
+  right: 50px;
+}
+
+.card-text {
+  line-height: 2;
+  max-width: 60em;
+}
